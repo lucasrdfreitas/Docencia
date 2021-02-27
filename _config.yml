@@ -13,7 +13,7 @@ github_username:  lucasrdfreitas
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
 
 defaults: 
   -
